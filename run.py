@@ -5,7 +5,7 @@ import sys
 import sqlite3
 
 
-TOKEN = 'NzMzMDYwODExOTMyNjk2NjA2.Xw-N-w.y-oyn8zOXoHVTGYagK6cKRzebh8'
+TOKEN = 'token here'
 
 description = '''Gekota'''
 
